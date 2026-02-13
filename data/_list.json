@@ -1,4 +1,14 @@
 [
-    "ONMYPHONEAT3AMMAKET",
-    "Sneaky Snitch"
-]
+    {
+        "name": "ONMYPHONEAT3AMMAKET"
+"author": "itemsay"
+        "id": 133015256,
+        "verifier": "itemsay"
+        "percentToQualify": 100
+    },
+    {
+        "name": "Sneaky Snitch"
+        "author": "itemsay"
+        "id": 132745635,
+        "verifier": "hugoko"
+        "percentToQualify": 100
